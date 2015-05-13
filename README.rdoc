@@ -16,6 +16,6 @@ This application includes:
 
 I plan on adding some features to the Notes model, such as image uploading using the 'Paperclip' gem.
 
-* ...
+---
 
 The app is deployed {here}[https://sleepy-cove-3612.herokuapp.com]
